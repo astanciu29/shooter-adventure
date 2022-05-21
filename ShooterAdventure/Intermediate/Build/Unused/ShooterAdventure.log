@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Repos\shooter-adventure).
+  Parsing headers for ShooterAdventureEditor
+    Running UnrealHeaderTool "E:\Repos\shooter-adventure\ShooterAdventure\ShooterAdventure.uproject" "E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\ShooterAdventureEditor\Development\ShooterAdventureEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\stanc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for ShooterAdventureEditor in 13.0932071 seconds
+  Building ShooterAdventureEditor...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] ShooterAnimInstance.cpp
+    [2/6] ShooterCharacter.gen.cpp
+    [3/6] ShooterCharacter.cpp
+    [4/6] UE4Editor-ShooterAdventure.lib
+       Creating library E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Development\ShooterAdventure\UE4Editor-ShooterAdventure.lib and object E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Development\ShooterAdventure\UE4Editor-ShooterAdventure.exp
+    [5/6] UE4Editor-ShooterAdventure.dll
+       Creating library E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Development\ShooterAdventure\UE4Editor-ShooterAdventure.suppressed.lib and object E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Development\ShooterAdventure\UE4Editor-ShooterAdventure.suppressed.exp
+    [6/6] ShooterAdventureEditor.target
+  Total time in Parallel executor: 15.31 seconds
+  Total execution time: 29.80 seconds

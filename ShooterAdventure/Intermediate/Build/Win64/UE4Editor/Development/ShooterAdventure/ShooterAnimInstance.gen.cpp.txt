@@ -1,0 +1,5 @@
+E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Development\ShooterAdventure\Definitions.ShooterAdventure.h
+E:\EpicGames\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\EpicGames\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Repos\shooter-adventure\ShooterAdventure\Source\ShooterAdventure/ShooterAnimInstance.h
+E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Inc\ShooterAdventure\ShooterAnimInstance.generated.h

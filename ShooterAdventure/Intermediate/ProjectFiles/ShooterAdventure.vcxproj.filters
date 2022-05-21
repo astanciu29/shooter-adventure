@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShooterAdventure.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5DE75CF8-CD0E-4FED-A6B3-755BFE32F557}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShooterAdventure.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShooterAdventureEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{68DD8AB4-650F-4B97-84BF-782A033E38B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShooterAdventure">
+      <UniqueIdentifier>{2264BC2D-19BA-4968-BA69-9C01DE274AC8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShooterAdventure\ShooterAdventure.Build.cs">
+      <Filter>Source\ShooterAdventure</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShooterAdventure\ShooterAdventure.cpp">
+      <Filter>Source\ShooterAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterAdventure\ShooterAdventure.h">
+      <Filter>Source\ShooterAdventure</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShooterAdventure\ShooterAnimInstance.cpp">
+      <Filter>Source\ShooterAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterAdventure\ShooterAnimInstance.h">
+      <Filter>Source\ShooterAdventure</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShooterAdventure\ShooterCharacter.cpp">
+      <Filter>Source\ShooterAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterAdventure\ShooterCharacter.h">
+      <Filter>Source\ShooterAdventure</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

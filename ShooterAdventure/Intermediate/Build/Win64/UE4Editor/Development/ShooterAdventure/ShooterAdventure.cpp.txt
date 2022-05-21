@@ -1,0 +1,2 @@
+E:\Repos\shooter-adventure\ShooterAdventure\Intermediate\Build\Win64\UE4Editor\Development\ShooterAdventure\Definitions.ShooterAdventure.h
+E:\Repos\shooter-adventure\ShooterAdventure\Source\ShooterAdventure\ShooterAdventure.h
